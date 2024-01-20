@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "hardhat": "^2.19.4"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "ethers": "^6.9.2",
+    "merkletreejs": "^0.3.11",
+    "n": "^9.2.0",
+    "sharp": "^0.33.1",
+    "stable": "^0.1.8"
+  }
+}
